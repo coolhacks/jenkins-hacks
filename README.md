@@ -2,7 +2,7 @@
 
 Some informative and cool hacks on jenkins.
 
-
+![header_logo](https://cloud.githubusercontent.com/assets/8342133/13157832/0bcdf298-d6b0-11e5-85bb-2832fdef3900.png)
 
 ## What is jenkins ?
 Jenkins is an open source continuous integration tool written in Java. The project was forked from Hudson after a dispute with Oracle.
